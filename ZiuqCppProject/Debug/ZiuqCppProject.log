@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  Category.cpp
+c:\users\kotar\desktop\ziuqcppproject\ziuqcppproject\category.cpp(55): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Co_Wiesz.cpp
+  Ekstraklasa.cpp
+  Fizyka.cpp
+  Gry.cpp
+  Historia.cpp
+  Informatyka.cpp
+  Jezyk_ob.cpp
+  Jezyk_oj.cpp
+  Lektury.cpp
+  Marvel.cpp
+  Menu.cpp
+  Panstwa.cpp
+  Podchwytliwe.cpp
+  ZiuqCppProject.cpp
+  Generowanie kodu...
+c:\users\kotar\desktop\ziuqcppproject\ziuqcppproject\menu.cpp(29): warning C4715: "Menu::Check_Line”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\kotar\desktop\ziuqcppproject\ziuqcppproject\menu.cpp(57): warning C4715: "Menu::Check_MiniLine”: niewszystkie ścieżki kodu zwracają wartość
+  ZiuqCppProject.vcxproj -> C:\Users\kotar\Desktop\ZiuqCppProject\Debug\ZiuqCppProject.exe

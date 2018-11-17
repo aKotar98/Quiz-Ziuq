@@ -1,0 +1,13 @@
+Wybierz Kategorie:
+[1]  - Co wiesz o wspolbratach
+[2]  - Panstwa-Miasta
+[3]  - Marvel
+[4]  - Podchwytliwe
+[5]  - Lektury
+[6]  - Fizyka
+[7]  - Gry
+[8]  - Informatyka
+[9]  - Historia
+[10] - Jezyki obce
+[11] - Jezyk ojczysty
+[12] - Ekstraklasa

@@ -1,0 +1,120 @@
+Jaki rozmiar mialy pierwsze dyskietki?
+A. 8 cali
+B. 5,25 cala
+C. 7,25 cala
+D. 7 cali
+A
+Przed czym chroni program antyspyware?
+A. Programami szpiegujacymi
+B. Atakami typu DoS i DDoS
+C. Programami antywirusowymi
+D. Programami typu robak
+A
+Jak inaczej nazywamy model protokolow TCP/IP?
+A. DoD
+B. SSH
+C. HTTP
+D. ISO OSI RM
+A
+Jak wyswietlic tekst w jezyku Python?
+A. print hello;
+B. print("hello")
+C. druck(hello;)
+D. def hello()
+B
+Jaka macierz dyskowa zapewnia jednoczesne zwiekszenie szybkosci operacji i bezpieczenstwa przechowywania danych?
+A. RAID 2
+B. RAID 3
+C. RAID 5
+D. RAID 0
+C
+Jaki jezyk programowania opracowali John Kemeny i Thomas Kurtz w 1964 roku?
+A. BASIC
+B. PHP
+C. Java
+D. CSS
+A
+Jakiej klasy nalezy uzyc zeby przechwycic zderzenie systemowe w Androidzie?
+A. BroadcastRecivier
+B. Activity
+C. IntentService
+D. Service
+A
+Co to jest Raspberry Pi?
+A. Program do edycji wyrazen matematycznych
+B. Gra logiczna
+C. Miniaturowy komputer
+D. Program do wykonywania obliczen
+C
+Jak nazywa sie tworca pierwszego komputera uzywajacego kodu binarnego w 1938?
+A. Sorosa
+B. Alan Turing
+C. Alan May
+D. Niklaus Wirth
+B
+Jaki format pliku graficznego ma najwiekszy rozmiar?
+A. GIF
+B. JPEG
+C. JPG
+D. PNG
+D
+Jak nazywa sie miejsce spotkan ludzi o wspolnych, inforamtycznych zainteresowaniach?
+A. Hackerplace
+B. Hackerhouse
+C. Hackerlocation
+D. Hackerspace
+D
+Poprzez zmine czego mozna uzyskac poprawe jakosci skanowania?
+A. Rozmiaru skanowanego dokumentu
+B. Rozdzielczosci
+C. Fromatu pliku wejsciowego
+D. Wielkosci wydruku
+B
+Jakie rozszerzenie ma obraz danych?
+A. .xcf 
+B. .iso
+C. .psd
+D. .rar
+B
+Jaki system operacyjny jest najpopularniejszy na PC?
+A. Windows
+B. MacOS
+C. Linux
+D. DOS
+A
+Jak nazywa sie uzytkownik z pelnymi uprawnieniami administracyjnymi w systemach Linux i Unix?
+A. sysadmin
+B. root
+C. hyperuser
+D. admin
+B
+Jak nazywamy zamiane formatu plikow
+A. Awersja
+B. Inwersja
+C. Konwekcja
+D. Konwersja
+D
+Jaka wartosc moze miec zasilanie dostarczone przez plyte glowna do pamieci SDRAM DDR3?
+A. 1,2V 
+B. 1,5V
+C. 1,8V
+D. 2,2V
+B
+W czym mierzymy czestotliwosc odswiezanania obrazu?
+A. w ohmach
+B. w megabajtach
+C. w kilobajtach
+D. w hercach
+D
+Ktory z tych programow sluzy do dokladnego modelowania w 3D?
+A. Inkscape 
+B. Maya
+C. Illustrator
+D. Photoshop
+B
+Ktory przycisk nalezy wcisnac aby odswiezyc przegladarke internetowa?
+A. F6 
+B. F5
+C. F7
+D. F4
+B
